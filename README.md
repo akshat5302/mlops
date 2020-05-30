@@ -9,3 +9,6 @@ job 5 - it will make you know that your model is not achieving desired accuracy
 job6 - if your job acc is greater than 93 this job will send you success mail
 job7 - if your job4 didnt get accuracy 93  or fail to run the model then this job will send you model fail mail
 job8 - this job is run because in any case your container goes down it will restart the container
+
+My jenkins job is in my article link where i explained all my jobs with screenshots
+My article link - https://medium.com/@akshatjain9782/ml-dev-ops-e6af2869d16e?sk=8caf3968c166c25484c71f510727e5e1
